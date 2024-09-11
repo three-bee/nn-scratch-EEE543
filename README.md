@@ -1,5 +1,5 @@
 # nn-scratch-EEE543
-Bilkent University 2024 Spring EEE543 Neural Networks assignments. Includes implementations of MLP and RNN from scratch, written in Python.
+Bilkent University 2023 Fall EEE543 Neural Networks assignments. Includes implementations of MLP and RNN from scratch, written in Python.
 
 The code and the reports include thorough derivations of the methods and extensive experiments for the following three projects.
 
